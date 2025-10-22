@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xiaogang Su @xgsu
-- 👀 I have a strong interest in statistics and machine learning.
+- 👀 Passionate about developing statistical and machine learning solutions to complex problems.
 - 🌱 I’m currently learning lots of new things. 
 - 📫 How to reach me? Email: xiaogang.su@gmail.com
 
